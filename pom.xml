@@ -8,9 +8,10 @@
         <version>2.6.4</version>
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>jenklins-boot-demo</artifactId>
+    <artifactId>jenkins-boot-demo</artifactId>
     <name>jenkins-boot-demo</name>
     <description>jenkins-boot-demo</description>
+    <version>0.1</version>
     <properties>
         <java.version>11</java.version>
     </properties>
