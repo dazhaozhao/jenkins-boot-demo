@@ -6,13 +6,11 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>2.6.4</version>
-        <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
     <artifactId>jenklins-boot-demo</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>jenklins-boot-demo</name>
-    <description>jenklins-boot-demo</description>
+    <name>jenkins-boot-demo</name>
+    <description>jenkins-boot-demo</description>
     <properties>
         <java.version>11</java.version>
     </properties>
